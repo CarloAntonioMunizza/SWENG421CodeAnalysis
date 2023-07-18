@@ -1,0 +1,69 @@
+PCBuilder.Parts.IntelCPU, Intel Core i9-11900K, 539.99, 125
+PCBuilder.Parts.AMDCPU, AMD Ryzen 9 5950X, 799.00, 105
+PCBuilder.Parts.IntelCPU, Intel Core i7-11700K, 399.99, 125
+PCBuilder.Parts.AMDCPU, AMD Ryzen 7 5800X, 449.00, 105
+PCBuilder.Parts.IntelCPU, Intel Core i5-11600K, 259.99, 125
+PCBuilder.Parts.AMDCPU, AMD Ryzen 5 5600X, 299.00, 65
+PCBuilder.Parts.IntelCPU, Intel Core i3-10100, 114.99, 65
+PCBuilder.Parts.AMDCPU, AMD Ryzen 3 3300X, 120.00, 65
+PCBuilder.Parts.IntelMotherboard, ASUS ROG Strix Z590-E, 379.99, 40
+PCBuilder.Parts.AMDMotherboard, MSI MPG B550 GAMING EDGE WIFI, 189.99, 35
+PCBuilder.Parts.IntelMotherboard, GIGABYTE Z490 AORUS Elite, 199.99, 40
+PCBuilder.Parts.AMDMotherboard, ASUS TUF Gaming X570-PLUS (Wi-Fi 6), 189.99, 35
+PCBuilder.Parts.IntelMotherboard, ASRock B460M Pro4, 89.99, 30
+PCBuilder.Parts.AMDMotherboard, MSI B450 TOMAHAWK MAX, 109.99, 30
+PCBuilder.Parts.IntelMotherboard, GIGABYTE H410M S2H, 69.99, 25
+PCBuilder.Parts.PSU, Corsair RM850x, 134.99, 850
+PCBuilder.Parts.PSU, EVGA SuperNOVA 750 G3, 129.99, 750
+PCBuilder.Parts.PSU, SeaSonic FOCUS GX-1000, 169.99, 1000
+PCBuilder.Parts.PSU, be quiet! Pure Power 11 600W, 89.99, 600
+PCBuilder.Parts.PSU, Cooler Master MWE Gold 650, 99.99, 650
+PCBuilder.Parts.PSU, Thermaltake Toughpower GF1 750W, 119.99, 750
+PCBuilder.Parts.PSU, Fractal Design Ion+ 860W, 149.99, 860
+PCBuilder.Parts.PSU, NZXT C850, 139.99, 850
+PCBuilder.Parts.GPU, NVIDIA GeForce RTX 3080, 699.00, 320
+PCBuilder.Parts.GPU, AMD Radeon RX 6800 XT, 649.00, 300
+PCBuilder.Parts.GPU, NVIDIA GeForce RTX 3070, 499.00, 220
+PCBuilder.Parts.GPU, AMD Radeon RX 6700 XT, 479.00, 230
+PCBuilder.Parts.GPU, NVIDIA GeForce RTX 3060 Ti, 399.00, 200
+PCBuilder.Parts.GPU, AMD Radeon RX 6600 XT, 379.00, 160
+PCBuilder.Parts.GPU, NVIDIA GeForce RTX 3060, 329.00, 170
+PCBuilder.Parts.GPU, AMD Radeon RX 6600, 299.00, 130
+PCBuilder.Parts.RAM, Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz, 89.99, 3
+PCBuilder.Parts.RAM, G.SKILL Ripjaws V Series 32GB (2 x 16GB) DDR4 3600MHz, 159.99, 6
+PCBuilder.Parts.RAM, Crucial Ballistix 16GB (2 x 8GB) DDR4 3000MHz, 74.99, 3
+PCBuilder.Parts.RAM, Kingston HyperX Fury 32GB (2 x 16GB) DDR4 3200MHz, 144.99, 6
+PCBuilder.Parts.RAM, Team T-FORCE VULCAN Z 16GB (2 x 8GB) DDR4 3000MHz, 69.99, 3
+PCBuilder.Parts.RAM, Corsair Dominator Platinum RGB 32GB (4 x 8GB) DDR4 3200MHz, 199.99, 6
+PCBuilder.Parts.Storage, Samsung 970 EVO Plus 1TB NVMe SSD, 149.99, 5
+PCBuilder.Parts.Storage, Western Digital Blue 2TB 3.5" HDD, 49.99, 6
+PCBuilder.Parts.Storage, Crucial P5 500GB NVMe SSD, 59.99, 4
+PCBuilder.Parts.Storage, Seagate BarraCuda 4TB 3.5" HDD, 89.99, 7
+PCBuilder.Parts.Storage, Kingston A2000 1TB NVMe SSD, 104.99, 4
+PCBuilder.Parts.Storage, Toshiba X300 6TB 3.5" HDD, 139.99, 9
+PCBuilder.Parts.Storage, Western Digital Blue 1TB SATA SSD, 99.99, 2
+PCBuilder.Parts.Storage, Seagate IronWolf 8TB 3.5" NAS HDD, 219.99, 8
+PCBuilder.Parts.Case, NZXT H510, 69.99
+PCBuilder.Parts.Case, Corsair 4000D Airflow, 94.99
+PCBuilder.Parts.Case, Fractal Design Meshify C, 89.99
+PCBuilder.Parts.Case, Phanteks Eclipse P300A, 59.99
+PCBuilder.Parts.Case, Lian Li Lancool II Mesh, 119.99
+PCBuilder.Parts.Case, Cooler Master MasterBox Q300L, 49.99
+PCBuilder.Parts.Case, be quiet! Pure Base 500DX, 99.99
+PCBuilder.Parts.Case, Thermaltake Core V21, 69.99
+PCBuilder.Wrapper.CPUCooler, Cooler Master Hyper 212 RGB, 44.99, 4
+PCBuilder.Wrapper.CPUCooler, Noctua NH-D15, 99.95, 1
+PCBuilder.Wrapper.CPUCooler, be quiet! Dark Rock Pro 4, 89.90, 1
+PCBuilder.Wrapper.CPUCooler, Corsair H100i RGB Platinum, 159.99, 8
+PCBuilder.Wrapper.CPUCooler, NZXT Kraken X63, 149.99, 7
+PCBuilder.Wrapper.CPUCooler, ARCTIC Freezer 34 eSports DUO, 49.99, 1
+PCBuilder.Wrapper.CPUCooler, Scythe Mugen 5 Rev.B, 49.99, 1
+PCBuilder.Wrapper.CPUCooler, Deepcool GAMMAXX 400, 24.99, 2
+PCBuilder.Wrapper.ThermalPaste, Arctic MX-4, 7.99
+PCBuilder.Wrapper.ThermalPaste, Noctua NT-H1, 8.95
+PCBuilder.Wrapper.ThermalPaste, Thermal Grizzly Kryonaut, 12.99
+PCBuilder.Wrapper.ThermalPaste, Cooler Master MasterGel Maker, 9.99
+PCBuilder.Wrapper.ThermalPaste, Gelid Solutions GC-Extreme, 13.99
+PCBuilder.Wrapper.ThermalPaste, Corsair TM30 Performance, 6.99
+PCBuilder.Wrapper.ThermalPaste, Prolimatech PK-3, 11.99
+PCBuilder.Wrapper.ThermalPaste, Cryorig CP7, 9.95
